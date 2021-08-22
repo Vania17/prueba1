@@ -53,3 +53,7 @@ body{
     height: 10px;
     background-color:#1b5d8f;
 }
+
+.slick-list.draggable {
+    padding-right: 5px;
+}
